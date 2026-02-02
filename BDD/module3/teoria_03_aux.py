@@ -34,7 +34,7 @@ columnas = {
     ]
 }
 
-ruta_base = r'C:\Users\Hp\Documents\GitHub\IBM-Data-Analyst\BDD\utils_03'
+ruta_base = r'C:\Users\Hp\Documents\GitHub\IBM-Data-Analyst\BDD\module3\utils_03'
 
 print("🚀 Iniciando carga masiva de datos HR...")
 
