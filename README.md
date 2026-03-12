@@ -41,6 +41,13 @@ A comprehensive repository documenting the complete IBM Data Analyst Professiona
 #### Data Visualizations with Python
 - Data visualization fundamentals
 - Interactive dashboards with Dash/Plotly
+- Static and dynamic visualizations
+
+#### Data Visualizations & Dashboards with Excel
+- Dashboard creation and design
+- Interactive charts and graphs in Excel
+- Data analytics with Excel pivot tables
+- Advanced Excel features for analysis
 
 #### Python for Data Science, AI & Development
 - Core Python programming concepts
@@ -53,7 +60,9 @@ A comprehensive repository documenting the complete IBM Data Analyst Professiona
 
 - **Languages:** Python, SQL
 - **Data Processing:** Pandas, NumPy
+- **File Formats:** CSV, Excel (.xlsx, .xls), JSON
 - **Visualization:** Matplotlib, Seaborn, Plotly, Folium
+- **Dashboards & BI:** Dash, Plotly Dashboard, Excel Dashboards
 - **Databases:** MySQL, SQLite
 - **Web Frameworks:** Dash
 - **Machine Learning:** Scikit-learn
@@ -61,15 +70,29 @@ A comprehensive repository documenting the complete IBM Data Analyst Professiona
 
 ## 📋 Key Skills Developed
 
-✅ Data Collection (APIs, Web Scraping)  
-✅ Data Cleaning & Wrangling  
-✅ Exploratory Data Analysis (EDA)  
-✅ Data Visualization  
-✅ SQL Queries & Database Management  
-✅ Machine Learning Model Development  
-✅ Statistical Analysis  
-✅ Dashboard Creation  
-✅ Python Programming  
+### Data Collection & Processing
+Data Collection (APIs, Web Scraping)  
+Excel & CSV File Handling  
+Data Cleaning & Wrangling  
+Exploratory Data Analysis (EDA)  
+
+### Visualization & Analytics
+Data Visualization (Static & Interactive)  
+Dashboard Creation (Python & Excel)  
+Excel Charts & Graphs  
+Excel Pivot Tables & Data Analytics  
+Data Storytelling  
+
+### Database & Advanced Topics
+SQL Queries & Database Management  
+Machine Learning Model Development  
+Statistical Analysis  
+Python Programming  
+
+### Excel Dashboards
+- Interactive charts and graphs created with Excel
+- Pivot tables for data summarization
+- Dynamic data analysis reports
 
 ## 🚀 Getting Started
 
