@@ -1,34 +1,58 @@
-# Virtual environments
+# ===== ARCHIVOS GRANDES =====
+*.csv
+*.xlsx
+*.parquet
+*.pickle
+*.pkl
+*.feather
+
+# ===== CACHÉ Y COMPILADOS =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+Thumbs.db
+
+# ===== DATOS RAW Y TEMPORALES =====
+data/raw/
+data/*.csv
+*.tmp
+*.temp
+*.log
+
+# ===== ENTORNO VIRTUAL =====
 venv/
 env/
 ENV/
 .venv
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-dist/
-build/
-
-# IDEs
+# ===== IDEs Y EDITORES =====
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-.DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+# ===== ARCHIVOS DE SALIDA =====
+*.output
+*.out
+outputs/
+results/
 
-# Environment variables
+# ===== ESPECÍFICO DE JUPYTER =====
+.jupyterlite.ipynb
+
+# ===== BASES DE DATOS =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== ARCHIVOS PERSONALES =====
 .env
-.env.local
-
-# OS
-Thumbs.db
+config.ini
+secrets.json
